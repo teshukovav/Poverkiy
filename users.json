@@ -1,0 +1,17 @@
+{
+    "admin": {
+        "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "role": "admin",
+        "email": ""
+    },
+    "Тешуков А.В.": {
+        "password": "84286c38b80c9765b44654551dd1465724353bfa9c053ef7613de16d85c74d28",
+        "role": "guest",
+        "email": "TeshukovAV@junix.ru"
+    },
+    "Гость": {
+        "password": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+        "role": "guest",
+        "email": ""
+    }
+}
